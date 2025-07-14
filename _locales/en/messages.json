@@ -1,0 +1,55 @@
+{
+  "appName": {
+    "message": "Price Alert Buddy",
+    "description": "Extension name"
+  },
+  "appDesc": {
+    "message": "Track product prices and get alerts when prices drop below your threshold",
+    "description": "Extension description"
+  },
+  "addProductPlaceholder": {
+    "message": "Paste product URL",
+    "description": "Placeholder for product URL input"
+  },
+  "priceThresholdPlaceholder": {
+    "message": "Alert price ($)",
+    "description": "Placeholder for price threshold input"
+  },
+  "addProductButton": {
+    "message": "Add Product",
+    "description": "Add product button text"
+  },
+  "trackedProductsHeader": {
+    "message": "Tracked Products",
+    "description": "Tracked products section header"
+  },
+  "noProductsMessage": {
+    "message": "No products being tracked yet. Add one above!",
+    "description": "Message shown when no products are tracked"
+  },
+  "alertBelowText": {
+    "message": "Alert below:",
+    "description": "Text before threshold price"
+  },
+  "removeButton": {
+    "message": "Remove",
+    "description": "Remove button text"
+  },
+  "lastCheckedText": {
+    "message": "Last checked:",
+    "description": "Text before last checked time"
+  },
+  "priceDropTitle": {
+    "message": "Price Alert!",
+    "description": "Price drop notification title"
+  },
+  "priceDropMessage": {
+    "message": "$1 dropped to $2 (your threshold: $3)",
+    "description": "Price drop notification message",
+    "placeholders": {
+      "1": { "content": "$1" },
+      "2": { "content": "$2" },
+      "3": { "content": "$3" }
+    }
+  }
+}
