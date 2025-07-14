@@ -1,4 +1,4 @@
-### Price Alert Buddy
+# Price Alert Buddy
 Price Alert Buddy is a lightweight Chrome extension that helps you track product prices on popular e-commerce websites and get notified when prices drop below your set threshold. Stay informed and save money by monitoring your favorite products effortlessly.
 
 ## Features
